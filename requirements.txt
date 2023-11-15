@@ -1,0 +1,4 @@
+numpy==1.21.5
+tqdm==4.65.0
+scikit-learn==1.0.2
+scikit-learn-intelex==2021.5.0
