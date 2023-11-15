@@ -7,8 +7,8 @@ import os
 
 from model.labeler import Labeler
 from utils.utils import load_labeler_datasets
-from sklearnex import patch_sklearn, unpatch_sklearn
-patch_sklearn()
+# from sklearnex import patch_sklearn, unpatch_sklearn
+# patch_sklearn()
 
 
 if __name__ == '__main__':
